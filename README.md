@@ -22,19 +22,19 @@ Experimental expertise in small-molecule NMR, protein expression, and protein pu
 Experience supporting drug discovery programs targeting GPCRs, kinases, and viral proteases
 
 ## SERVICES
-#Virtual Screening & Molecular Docking
+# Virtual Screening & Molecular Docking
 Identify promising compounds through virtual screening, docking, and binding pose analysis before experimental testing.
 
-#Molecular Dynamics & Free Energy Analysis
+# Molecular Dynamics & Free Energy Analysis
 Investigate binding stability, conformational dynamics, and estimate binding affinities using molecular dynamics and free energy calculations.
 
-#ADMET & Developability Prediction
+# ADMET & Developability Prediction
 Evaluate drug-likeness, physicochemical properties, ADMET, toxicity, and developability to prioritize high-quality candidates.
 
-#Protein & Peptide Design
+# Protein & Peptide Design
 Design and optimize protein and peptide binders using state-of-the-art AI methods, including RFdiffusion, ProteinMPNN, and AlphaFold.
 
-#Computational Drug Discovery Consulting
+# Computational Drug Discovery Consulting
 Provide strategic computational support, workflow development, data interpretation, and project guidance for academic and industry teams.
 
 *Biomodeling Insights partners with biotech and academic teams to de‑risk drug discovery programs using structure‑based modeling, molecular dynamics, and AI‑driven protein design.*
