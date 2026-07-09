@@ -1,2 +1,2 @@
-# biomodeling-insights
+# Biomodeling-insights
 AI‑Driven Computational Drug Discovery
