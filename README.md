@@ -12,14 +12,14 @@ Tasneem Vaid is a computational structural biologist and drug discovery scientis
 
 *Core tools, platforms, and areas of expertise include:*
 
-Structure-based drug design using Schrödinger Suite, ICM-Molsoft, and modern molecular modeling workflows
-Molecular dynamics simulations, enhanced sampling, and free energy calculations using GROMACS, Desmond, and Rowan
-AI-assisted drug discovery with Rowan, including molecular property prediction, ADMET assessment, and lead optimization support
-Cheminformatics and machine learning using RDKit, scikit-learn, Python, pandas, and NumPy for molecular descriptor generation, QSAR modeling, virtual screening, and data analysis
-De novo protein and peptide design using RFdiffusion and ProteinMPNN
-Protein complex structure prediction and interface analysis using AlphaFold-Multimer
-Experimental expertise in small-molecule NMR, protein expression, and protein purification
-Experience supporting drug discovery programs targeting GPCRs, kinases, and viral proteases
+- Structure-based drug design using Schrödinger Suite, ICM-Molsoft, and modern molecular modeling workflows
+- Molecular dynamics simulations, enhanced sampling, and free energy calculations using GROMACS, Desmond, and Rowan
+- AI-assisted drug discovery with Rowan, including molecular property prediction, ADMET assessment, and lead optimization support
+- Cheminformatics and machine learning using RDKit, scikit-learn, Python, pandas, and NumPy for molecular descriptor generation, QSAR modeling, virtual screening, and data analysis
+- De novo protein and peptide design using RFdiffusion and ProteinMPNN
+- Protein complex structure prediction and interface analysis using AlphaFold-Multimer
+- Experimental expertise in small-molecule NMR, protein expression, and protein purification
+- Experience supporting drug discovery programs targeting GPCRs, kinases, and viral proteases
 
 ## SERVICES
 # Virtual Screening & Molecular Docking
@@ -41,7 +41,7 @@ Provide strategic computational support, workflow development, data interpretati
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+< ## MY PORTFOLIO 
 
 *A glimpse of some of the projects I've been working on.*
 
@@ -67,7 +67,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>>
 
 
 ## CONTACT DETAILS
