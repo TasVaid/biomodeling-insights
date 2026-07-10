@@ -10,16 +10,18 @@ Tasneem Vaid is a computational structural biologist and drug discovery scientis
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## TECHNICAL EXPERTISE
 
-*Core tools, platforms, and areas of expertise include:*
+*Areas of expertise include:*
 
-- Structure-based drug design using Schrödinger Suite, ICM-Molsoft, and modern molecular modeling workflows
-- Molecular dynamics simulations, enhanced sampling, and free energy calculations using GROMACS, Desmond, and Rowan
-- AI-assisted drug discovery with Rowan, including molecular property prediction, ADMET assessment, and lead optimization support
-- Cheminformatics and machine learning using RDKit, scikit-learn, Python, pandas, and NumPy for molecular descriptor generation, QSAR modeling, virtual screening, and data analysis
-- De novo protein and peptide design using RFdiffusion and ProteinMPNN
-- Protein complex structure prediction and interface analysis using AlphaFold-Multimer
-- Experimental expertise in small-molecule NMR, protein expression, and protein purification
-- Experience supporting drug discovery programs targeting GPCRs, kinases, and viral proteases
+- Structure-based drug design and molecular modeling
+- Molecular dynamics simulations, enhanced sampling, and free energy calculations
+- Cheminformatics, machine learning, QSAR modeling, virtual screening, and molecular property prediction
+- AI-driven protein and peptide design
+- Protein structure prediction and protein–protein interface analysis
+- Small-molecule NMR, protein expression, and protein purification
+- Drug discovery across GPCRs, kinases, and viral proteases
+
+*Core Technologies*
+Rowan • Schrödinger • ICM-Molsoft • GROMACS • Desmond • RDKit • scikit-learn • RFdiffusion • ProteinMPNN • AlphaFold • Python
 
 ## SERVICES
 ### Virtual Screening & Molecular Docking
@@ -43,23 +45,29 @@ Provide strategic computational support, workflow development, data interpretati
 ## PORTFOLIO
 
 ### Viral Proteases
-*SARS-CoV-2 Papain-Like Protease (PLpro)* 
+*SARS-CoV-2 Papain-Like Protease (PLpro)*. 
 Developed small-molecule inhibitors and AI-designed protein binders targeting SARS-CoV-2 PLpro using structure-based drug design, molecular dynamics, free-energy calculations, and modern AI methods. The work contributed to a preclinical lead compound and a patent application (AU2022413258A1)
+- J. Wu, T. Vaid, *et al.*, 2023, bioRxiv 2023.05.02.539082.
 
 *Matrix Metalloproteinase-14 (MMP-14)*
 Designed selective small-molecule and peptide inhibitors for MMP-14 by integrating docking, molecular dynamics, enhanced sampling, and peptide modeling to support lead discovery and optimization.
+- H. Lee, I. Youn, R. Demissie, T. M. Vaid, *et al.*, Bioorganic & Medicinal Chemistry 2023, 117289.
 
 ### Kinases
-*Colony Stimulating Factor 1 Receptor (CSF1R)*
+*Colony Stimulating Factor 1 Receptor (CSF1R)*.
 Designed selective CSF1R kinase inhibitors using structure-based drug design, molecular dynamics, free-energy calculations, and machine learning to guide lead optimization and structure-activity relationship studies.
+- T. M. Vaid, R. Demissie, *et al.*, ACS Omega 2023, 8, 20505.
 
 ### GPCRs
-*α1-Adrenergic Receptors*
+*α1-Adrenergic Receptors*.
 Investigated ligand binding and subtype selectivity using ligand-observed NMR, protein expression and purification, molecular dynamics simulations, and computational modeling to provide structural insights into GPCR function.
+- M. Deluigi, L. Morstein, *et al.* Nature Communications 2022, 13, 382
 
 ### AI & Computational Drug Discovery
 Developed AI and cheminformatics workflows for QSAR, ADMET prediction, molecular property analysis, virtual screening, and pharmaceutical LLM evaluation to support computational drug discovery projects.
+- T.M. Vaid, J. Ren, *et al.* Journal of Computer-Aided Molecular Design 2023, 37, 53-65
 
+##Full publication list available on <a href="http://www.linkedin.com/in/tasneem-vaid-phd-95371894">Google Scholar</a></td>
 
 ## CONTACT DETAILS
 
