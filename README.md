@@ -80,14 +80,7 @@ Developed AI and cheminformatics workflows for QSAR, ADMET prediction, molecular
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/tasneem-vaid-phd-95371894">The things I do daily on LinkedIn</a></td>
+      <td><a href="http://www.linkedin.com/in/tasneem-vaid-phd-95371894">The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
-
-   
-
-
-
-
-Displaying Raw File by Anietie Etuk.txt.
