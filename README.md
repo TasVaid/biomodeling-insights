@@ -84,7 +84,7 @@ Developed AI and cheminformatics workflows for QSAR, ADMET prediction, molecular
     </tr>
     <tr>
       <td>📍</td>
-      <td>IL, UnitedStates</td>
+      <td>IL, United States</td>
     </tr>
     <tr>
       <td>🌐</td>
