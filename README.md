@@ -1,7 +1,6 @@
-# Biomodeling-insights
+# Biomodeling Insights
 AI‑Driven Computational Drug Discovery
 
-<!--Section 1: Introduce your self-->
 ## FOUNDER
 
 Tasneem Vaid is a computational structural biologist and drug discovery scientist with experience spanning small‑molecule therapeutics, peptide inhibitors, and AI‑driven protein design. Her work integrates structure‑based modeling, molecular dynamics simulations, and modern machine‑learning tools to support discovery programs across proteases, kinases, and protein–protein interactions. She has contributed to preclinical discovery efforts and intellectual property development in collaborative academic and industry settings.
@@ -20,7 +19,8 @@ Tasneem Vaid is a computational structural biologist and drug discovery scientis
 - Small-molecule NMR, protein expression, and protein purification
 - Drug discovery across GPCRs, kinases, and viral proteases
 
-*Core Technologies*
+*Core Technologies:*
+
 Rowan • Schrödinger • ICM-Molsoft • GROMACS • Desmond • RDKit • scikit-learn • RFdiffusion • ProteinMPNN • AlphaFold • Python
 
 ## SERVICES
@@ -67,7 +67,7 @@ Investigated ligand binding and subtype selectivity using ligand-observed NMR, p
 Developed AI and cheminformatics workflows for QSAR, ADMET prediction, molecular property analysis, virtual screening, and pharmaceutical LLM evaluation to support computational drug discovery projects.
 - T.M. Vaid, J. Ren, *et al.* Journal of Computer-Aided Molecular Design 2023, 37, 53-65
 
-##Full publication list available on <a href="http://www.linkedin.com/in/tasneem-vaid-phd-95371894">Google Scholar</a></td>
+##Full publication list available on <a href="https://scholar.google.com/citations?user=bUEQ7h8AAAAJ&hl=en">Google Scholar</a>
 
 ## CONTACT DETAILS
 
