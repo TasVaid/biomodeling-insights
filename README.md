@@ -60,6 +60,7 @@ Investigated ligand binding and subtype selectivity using ligand-observed NMR, p
 ### AI & Computational Drug Discovery
 Developed AI and cheminformatics workflows for QSAR, ADMET prediction, molecular property analysis, virtual screening, and pharmaceutical LLM evaluation to support computational drug discovery projects.
 
+
 ## CONTACT DETAILS
 
 *Let’s connect and see how we can make a difference together!*
