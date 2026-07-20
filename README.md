@@ -21,7 +21,7 @@ Tasneem Vaid is a computational structural biologist and drug discovery scientis
 
 *Core Technologies:*
 
-Rowan • Schrödinger • ICM-Molsoft • GROMACS • Desmond • RDKit • scikit-learn • RFdiffusion • ProteinMPNN • AlphaFold • Python
+Rowan • OpenMM • Schrödinger • ICM-Molsoft • GROMACS • Desmond • RDKit • scikit-learn • RFdiffusion • ProteinMPNN • AlphaFold • Python
 
 ## SERVICES
 ### Virtual Screening & Molecular Docking
